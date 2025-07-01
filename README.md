@@ -5,6 +5,6 @@
 - 🤙 LinkedIn Id: www.linkedin.com/in/faheem-akthar-mohammed
 
 <!---
-Mohammed-Faheem-Akthar/Mohammed-Faheem-Akthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Faheem5555/Mohammed-Faheem-Akthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
