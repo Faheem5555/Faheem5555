@@ -56,5 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheem5555&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="faheem5555" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheem5555&show_icons=true&locale=en&layout=compact" alt="faheem5555" /></p>
